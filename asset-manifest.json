@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sara-Jo/movie_app_2021/static/css/main.5a1edc8e.chunk.css",
+    "main.js": "/Sara-Jo/movie_app_2021/static/js/main.87364a62.chunk.js",
+    "main.js.map": "/Sara-Jo/movie_app_2021/static/js/main.87364a62.chunk.js.map",
+    "runtime-main.js": "/Sara-Jo/movie_app_2021/static/js/runtime-main.302f3491.js",
+    "runtime-main.js.map": "/Sara-Jo/movie_app_2021/static/js/runtime-main.302f3491.js.map",
+    "static/js/2.b3ae5a7b.chunk.js": "/Sara-Jo/movie_app_2021/static/js/2.b3ae5a7b.chunk.js",
+    "static/js/2.b3ae5a7b.chunk.js.map": "/Sara-Jo/movie_app_2021/static/js/2.b3ae5a7b.chunk.js.map",
+    "index.html": "/Sara-Jo/movie_app_2021/index.html",
+    "static/css/main.5a1edc8e.chunk.css.map": "/Sara-Jo/movie_app_2021/static/css/main.5a1edc8e.chunk.css.map",
+    "static/js/2.b3ae5a7b.chunk.js.LICENSE.txt": "/Sara-Jo/movie_app_2021/static/js/2.b3ae5a7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.302f3491.js",
+    "static/js/2.b3ae5a7b.chunk.js",
+    "static/css/main.5a1edc8e.chunk.css",
+    "static/js/main.87364a62.chunk.js"
+  ]
+}
